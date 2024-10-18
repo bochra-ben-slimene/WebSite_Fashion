@@ -2,7 +2,7 @@
 
 Je utilise sur cette site HTML/CSS/JS
 
-![Je utilise sur cette site HTML/CSS/JS](images/Fashion.jpg)
+![Je utilise sur cette site HTML/CSS/JS](Fashion.png)
 
 ## Lien vers le Site
 
