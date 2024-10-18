@@ -1,9 +1,9 @@
-# web site simple FASHION
+# Simple Fashion Website
 
-Je utilise sur cette site HTML/CSS/JS
+This website is built using HTML, CSS, and JavaScript.
 
-![Je utilise sur cette site HTML/CSS/JS](Fashion.png)
+![Technologies Used: HTML/CSS/JS](Fashion.png)
 
-## Lien vers le Site
+## Visit the Site
 
-Vous pouvez visiter le site ici : [Fashion](https://simple-site-fashion.vercel.app/)
+You can visit the site here: [Fashion](https://simple-site-fashion.vercel.app/)
